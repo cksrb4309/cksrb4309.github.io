@@ -1,0 +1,40 @@
+# main links
+# main:
+  # - title: "모든 자료"
+  #   url: /AllDocument/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+# _data/navigation.yml
+# sidebar-category: 
+#   - title: "GitHub"
+#     # url: "/github-blog"
+#     # category: "github-blog"
+#     children:
+#       - title: "😉 깃허브 블로그"
+#         url: "/github-blog" 
+#         category: "github-blog"
+
+docs:
+  - title: "❕ 소개 ❕"
+    url : /introduction/
+    category_name: "introduction"
+    children:
+      - title: "😘 자기소개"
+        url: /introduction/profile/
+        category_name: "profile"
+      - title: "😃 블로그"
+        url: /introduction/blog/
+        category_name: "blog"
+  - title: "📖 공부"
+    url : /study/
+    category_name: "study"
+    children:
+      - title: "⚔️ 유니티"
+        url: /study/unity/
+        category_name: "unity"
+      - title: "🧨 언리얼"
+        url: /study/unreal
+        category_name: "unreal"
