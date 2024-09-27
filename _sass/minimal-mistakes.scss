@@ -35,15 +35,3 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
-
-.post {
-  border-bottom: 1px solid #ddd; /* 각 게시글 사이에 경계선 추가 */
-  padding: 20px 0; /* 상하 여백 추가 */
-  margin-bottom: 20px; /* 카드 간 간격 조정 */
-  background-color: #f9f9f9; /* 배경색 추가 */
-}
-
-.post-title {
-  font-size: 1.5em; /* 제목 크기 조정 */
-  color: #333; /* 제목 색상 */
-}
