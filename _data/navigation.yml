@@ -36,5 +36,15 @@ docs:
         url: /study/unity/
         category_name: "unity"
       - title: "🧨 언리얼"
-        url: /study/unreal
+        url: /study/unreal/
         category_name: "unreal"
+  - title: "⛳️ 게임"
+    url : /game/
+    category_name: "game"
+    children:
+      - title: "⚔️ 유니티"
+        url: /game/unity_game/
+        category_name: "unity"
+      - title: "🧨 언리얼"
+        url: /game/unreal_game/
+        category_name: "unreal_game"
