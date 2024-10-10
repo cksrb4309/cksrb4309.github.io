@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_data"
+    "\\_data",
+    "\\_pages",
+    "\\_posts",
+    "\\_posts\\game",
+    "\\_posts\\game\\unity_game",
+    "\\_posts\\introduction",
+    "\\_posts\\introduction\\blog",
+    "\\_posts\\introduction\\profile",
+    "\\_posts\\study"
   ],
-  "SelectedNode": "\\_data\\navigation.yml",
+  "SelectedNode": "\\_posts\\game\\unity_game\\2024-10-10-unity_game_1.md",
   "PreviewInSolutionExplorer": false
 }
