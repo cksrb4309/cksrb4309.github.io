@@ -18,33 +18,23 @@
 #         category: "github-blog"
 
 docs:
-  - title: "❕ 소개 ❕"
-    url : /introduction/
-    category_name: "introduction"
-    children:
-      - title: "😘 자기소개"
-        url: /introduction/profile/
-        category_name: "profile"
-      - title: "😃 블로그"
-        url: /introduction/blog/
-        category_name: "blog"
   - title: "📖 공부"
     url : /study/
     category_name: "study"
     children:
-      - title: "⚔️ 유니티"
-        url: /study/unity/
-        category_name: "unity"
-      - title: "🧨 언리얼"
-        url: /study/unreal/
-        category_name: "unreal"
+      - title: "유니티"
+        url: /study/unity_study/
+        category_name: "unity_study"
+      - title: "언리얼"
+        url: /study/unreal_study/
+        category_name: "unreal_study"
   - title: "⛳️ 게임"
     url : /game/
     category_name: "game"
     children:
       - title: "⚔️ 유니티"
         url: /game/unity_game/
-        category_name: "unity"
+        category_name: "unity_game"
       - title: "🧨 언리얼"
         url: /game/unreal_game/
         category_name: "unreal_game"

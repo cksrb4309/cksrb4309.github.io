@@ -1,16 +1,17 @@
 ---
 title: "⚔️ 유니티"
-layout: category
-permalink: /study/unity/
-taxonomy: unity
+layout: single
+permalink: /study/unity_study/
 author_profile: true
-sidebar_main: true
 sidebar:
-    nav: "docs"
+  nav: "docs"
 ---
 
+### 📦 [ECS / DOTS](./ecs/)
 
 
-{% assign posts = site.category.github-blog %}
 
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+### 🎮 일반 Unity
+
+- 
+

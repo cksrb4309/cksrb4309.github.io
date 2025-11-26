@@ -1,8 +1,8 @@
 ---
 title: "🧨 언리얼"
 layout: category
-permalink: /study/unreal/
-taxonomy: unreal
+permalink: /study/unreal_study/
+taxonomy: unreal_study
 author_profile: true
 sidebar_main: true
 sidebar:
